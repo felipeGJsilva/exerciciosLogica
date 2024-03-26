@@ -9,4 +9,5 @@ int main(){
     scanf("%d", &n2);
     int soma = n1 + n2;
     printf("A soma dos numeros deu: %d\n", soma);
+    return 0;
 }
