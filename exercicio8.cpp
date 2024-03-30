@@ -19,6 +19,6 @@ int main(){
     bool result = soma > lado3;
 
     printf("resultado %d", result);
-
+    
     return false;
 }
