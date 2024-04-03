@@ -12,4 +12,6 @@ int main(){
 
     printf("A area do retangulo é %d", result);
 
+    return false;
+
 }
